@@ -8,7 +8,7 @@ from sklearn.preprocessing import OrdinalEncoder
 st.sidebar.title('Car Price Prediction')
 html_temp = """
 <div style="background-color:blue;padding:10px">
-<h2 style="color:white;text-align:center;">Streamlit ML Cloud App by Hilmi Katirci </h2>
+<h2 style="color:white;text-align:center;">Streamlit ML Cloud App</h2>
 </div>"""
 st.markdown(html_temp, unsafe_allow_html=True)
 
